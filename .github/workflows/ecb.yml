@@ -3,7 +3,6 @@ name: ECB Alerts (cron)
 on:
   schedule:
     - cron: "*/5 * * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
