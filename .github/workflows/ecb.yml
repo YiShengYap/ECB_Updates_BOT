@@ -36,4 +36,3 @@ jobs:
           git commit -m "Update seen ECB items" || echo "No changes"
           git push
 
-Touch workflow to register
