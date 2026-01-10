@@ -1,4 +1,4 @@
-name: ECB Alerts
+name: ECB Alerts (cron)
 
 on:
   schedule:
